@@ -71,7 +71,7 @@ dog.sleep();
 //  action 1:     bounce
 ball.bounce();
 //  action 2:     stop
-ball.stop();
+ball.stopBouncing();
 //  action 3:     roll
 ball.roll();
 //  3)
@@ -88,7 +88,7 @@ cellPhone.discharge();
 //  action 1:     compile
 compiler.compile();
 //  action 2:     stop
-compiler.stop();
+compiler.stopCompiling();
 //  action 3:     break
 compiler.run();
 //  5)
@@ -134,7 +134,7 @@ developer.testCode();
 //  10)
 //  Noun:         donaldTrump
 //  action 1:     twitt
-donaldTrump.twitt();
+donaldTrump.sendTwitt();
 //  action 2:     yell
 donaldTrump.yell();
 //  action 3:     cry
