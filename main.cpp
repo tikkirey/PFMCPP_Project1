@@ -90,7 +90,7 @@ compiler.compile();
 //  action 2:     stop
 compiler.stop();
 //  action 3:     break
-compiler.break();
+compiler.run();
 //  5)
 //  Noun:         pc
 //  action 1:     reboot
